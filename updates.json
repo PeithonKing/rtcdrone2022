@@ -16,15 +16,29 @@
   {
     "date": "27th June, 2022",
     "heading": "Basic Structure Built",
-    "content": "Four equal-sized (~24cm) pieces were cut off from the long aluminium pipe for the arms. Holes were drilled into measured places of appropriate diameter. We took the help of the <strong>Central Worksop</strong> for drilling holes due to the unavailability of those appropriately sized drill bits in RTC. Later we bought those drill bits ourselves. We also cut 2 pieces of Sunmica, each of dimension 13*13cm. We drilled holes into it in appropriate positions. Then we attached the metal arms to the plates. We used two 1.5inch long M6 bolts for each arm (which makes up 8 nuts &bolts).",
+    "content": "Four equal-sized (~24cm) pieces were cut off from the long aluminium pipe for the arms. Holes were drilled into measured places of appropriate diameter. We took the help of the <strong>Central Workshop</strong> for drilling holes due to the unavailability of those appropriately sized drill bits in RTC. Later we bought those drill bits ourselves. We also cut 2 pieces of Sunmica, each of dimension 13*13cm. We drilled holes into it in appropriate positions. Then we attached the metal arms to the plates. We used two 1.5inch long M6 bolts for each arm (which makes up 8 nuts &bolts).",
     "image": "https://picsum.photos/300",
     "show": true
   },
   {
     "date": "2nd July, 2022",
     "heading": "Motors Attached",
-    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque quam facere qui, quasi vero officia magnam vitae nam ipsam. Rerum veniam tempora repellat laborum provident maxime rem magni blanditiis, enim, culpa reprehenderit, natus esse! Fuga, quaerat quos ullam mollitia, amet sit praesentium recusandae tempora aperiam explicabo aliquid dolor, perferendis consequuntur.",
+    "content": "Four EMAX MT2213 920 kVA brushless motor were mounted on the mounting points of the drone arm. The mounting was done on additionally 3D printed spacers to accomodate the back opening of the motor shaft. The screws were fixed using four screew holes made in the lower part of the arm in order to complete fixing using Allen keys.",
     "image": "https://picsum.photos/300",
-    "show": false
+    "show": true
+  },
+  {
+    "date": "3rd July, 2022",
+    "heading": "Electronic components prepared for assembly",
+    "content": "Each of the connections for motors, electronic speed controllers and power units were soldered accordingly using 20 gauge connecting wires, rated for carrying high current upto 25-30 A. The connections to the motor were made using plug socket attachment with the electronic speed controllers, insulated using heat shrinked rubber coverings so that they can be disconnected easily in case of removal due to damage.",
+    "image": "https://picsum.photos/300",
+    "show": true
+  },
+  {
+    "date": "3rd July, 2022",
+    "heading": "Assembly of the principal components of drone",
+    "content": "The assembly was initiated by fixing the power module on the central base of the drone, and using additional 3D printed Hexagonal spacers, the soft mounting base was fixed above it. The electronic speed controllers were fixed to the arms of the drone using plastic strip cable zip ties, along with all the connecting wires to the motor, radio receiver antennas and the power module. The receiver module was placed in the central section of the drone base, along with a telemetry module. The PixHawk flight controller was soft mounted on the carbon fibre base using rubber spacers. Additional holes were made for fixing stand on which, the GPS module was fixed. All required connections were made to the power, receiver, telemetry and GPS module to the flight controller and the functioning of the components were tested using associated PixHawk software",
+    "image": "https://picsum.photos/300",
+    "show": true
   }
 ]
